@@ -1,7 +1,7 @@
 name: Add to Ecosystem WG Project
 
-on:
-  issues:
+on:snyk-fix-ca3667b53343c23000be607289548317
+  issues:add to project eco sts
     types:
       - opened
   pull_request_target:
