@@ -52,7 +52,7 @@
     "electron-packager": "^17.1.2",
     "express": "^4.17.1",
     "express-ws": "^5.0.2",
-    "fast-glob": "^3.2.7",
+    "fast-glob": "^3.3.3",
     "filenamify": "^4.1.0",
     "find-up": "^5.0.0",
     "form-data": "^4.0.0",
