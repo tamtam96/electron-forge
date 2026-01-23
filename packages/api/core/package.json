@@ -51,7 +51,7 @@
     "@electron-forge/template-webpack": "6.4.2",
     "@electron-forge/template-webpack-typescript": "6.4.2",
     "@electron/get": "^2.0.0",
-    "@electron/rebuild": "^3.2.10",
+    "@electron/rebuild": "^4.0.1",
     "@malept/cross-spawn-promise": "^2.0.0",
     "chalk": "^4.0.0",
     "debug": "^4.3.1",
