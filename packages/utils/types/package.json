@@ -8,7 +8,7 @@
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "dependencies": {
-    "@electron/rebuild": "^3.2.10",
+    "@electron/rebuild": "^4.0.3",
     "electron-packager": "^17.1.2",
     "listr2": "^5.0.3"
   },
